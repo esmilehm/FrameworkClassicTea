@@ -1,0 +1,6 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\GraffitiDLL\FrameworkClassicTea.dll.config
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\GraffitiDLL\FrameworkClassicTea.dll
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\GraffitiDLL\FrameworkClassicTea.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\FrameworkClassicTea\FrameworkClassicTea\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\FrameworkClassicTea\FrameworkClassicTea\obj\Release\FrameworkClassicTea.dll
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\FrameworkClassicTea\FrameworkClassicTea\obj\Release\FrameworkClassicTea.pdb
